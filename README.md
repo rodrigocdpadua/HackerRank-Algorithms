@@ -9,5 +9,6 @@
 * [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem)
 * [Mini Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)
 * [Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem)
+* [Save The Prisoner](https://www.hackerrank.com/challenges/save-the-prisoner/problem)
 * [Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem)
 * [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)
