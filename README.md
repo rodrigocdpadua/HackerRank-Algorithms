@@ -8,4 +8,5 @@
 * [Diagonal DIfference](https://www.hackerrank.com/challenges/diagonal-difference/problem)
 * [Mini Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)
 * [Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem)
+* [Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem)
 * [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem)
