@@ -5,6 +5,7 @@
 ### Problem Description
 * [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem)
 * [Compare The Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
+* [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)
 * [Diagonal DIfference](https://www.hackerrank.com/challenges/diagonal-difference/problem)
 * [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem)
 * [Mini Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)
