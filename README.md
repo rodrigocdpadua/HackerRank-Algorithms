@@ -7,6 +7,7 @@
 * [Compare The Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
 * [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)
 * [Diagonal DIfference](https://www.hackerrank.com/challenges/diagonal-difference/problem)
+* [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop/problem)
 * [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem)
 * [Mini Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)
 * [Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem)
