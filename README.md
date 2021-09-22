@@ -4,6 +4,7 @@
 
 ### Problem Description
 * [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem)
+* [Cats and Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)
 * [Compare The Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
 * [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)
 * [Diagonal DIfference](https://www.hackerrank.com/challenges/diagonal-difference/problem)
