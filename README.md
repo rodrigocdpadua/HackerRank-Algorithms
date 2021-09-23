@@ -12,6 +12,7 @@
 * [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem)
 * [Mini Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)
 * [Number Line Jumps](https://www.hackerrank.com/challenges/kangaroo/problem)
+* [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers/problem)
 * [Save The Prisoner](https://www.hackerrank.com/challenges/save-the-prisoner/problem)
 * [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant/problem)
 * [Subarray Division](https://www.hackerrank.com/challenges/the-birthday-bar/problem)
