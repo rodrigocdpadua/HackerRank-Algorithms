@@ -5,6 +5,7 @@
 ### Problem Description
 * [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem)
 * [Cats and Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)
+* [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem)
 * [Climbing Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard/problem)
 * [Compare The Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)
 * [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys/problem)
