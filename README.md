@@ -3,6 +3,7 @@
 [Hacker Rank Problems](https://www.hackerrank.com/domains/algorithms)
 
 ### Problem Description
+* [Append and Delete](https://www.hackerrank.com/challenges/append-and-delete/problem)
 * [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem)
 * [Cats and Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem)
 * [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation/problem)
